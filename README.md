@@ -17,7 +17,6 @@ Passionate Software Engineer and Solution Architect with deep expertise in build
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-FF4B4B?style=flat&logoColor=white)
 
@@ -48,22 +47,39 @@ AI-powered liver health companion integrating **LLM models** for intelligent dia
 `LLM · Health Tech · AI · Spring Boot`
 
 ### ⚡ Nile Soft Enhanced
-Enterprise software enhancement project — delivering scalable, performant backend services and refined system architecture.
+Enterprise software enhancement project — scalable, performant backend services and refined system architecture.
 `Enterprise · Spring Boot · Kotlin`
 
 ### 🏢 Awad Badi Nahas Projects
-End-to-end project delivery for client systems, focusing on solid architecture, reliability, and clean engineering practices.
+End-to-end project delivery focused on solid architecture, reliability, and clean engineering practices.
 `Architecture · Java · Solution Design`
 
 ---
 
 ## 📊 GitHub Stats
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarfaysal1111&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaysal1111&layout=compact&hide_border=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarfaysal1111&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaysal1111&layout=compact&hide_border=true&theme=default" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaysal1111&hide_border=true&theme=default" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omarfaysal1111&theme=flat&no-frame=true&column=6" />
+</p>
 
 ---
 
 ## 🤝 Connect
 
 ![GitHub](https://img.shields.io/badge/GitHub-omarfaysal1111-181717?style=flat&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Backend_Engineering-0052CC?style=flat&logoColor=white)
+![Open to Collaboration](https://img.shields.io/badge/Open_to-Collaboration-4CAF50?style=flat&logoColor=white)
+![Building AI](https://img.shields.io/badge/Building-AI_Powered_Apps-FF4B4B?style=flat&logoColor=white)
