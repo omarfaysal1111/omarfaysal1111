@@ -69,14 +69,6 @@ End-to-end project delivery focused on solid architecture, reliability, and clea
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarfaysal1111&theme=flat&no-frame=true&column=6" />
-</p>
-
----
-
 ## 🤝 Connect
 
 ![GitHub](https://img.shields.io/badge/GitHub-omarfaysal1111-181717?style=flat&logo=github&logoColor=white)
