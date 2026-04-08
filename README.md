@@ -56,13 +56,7 @@ Enterprise software enhancement project — scalable, performant backend service
 End-to-end project delivery focused on solid architecture, reliability, and clean engineering practices.
 `Architecture · Java · Solution Design . PHP . Flutter . Solution Architecture`
 
----
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaysal1111&hide_border=true&theme=default" height="160"/>
-</p>
-
----
 
 ## 🤝 Connect
 
