@@ -7,11 +7,13 @@ Passionate Software Engineer and Solution Architect with deep expertise in build
 ---
 
 ## 🛠 Tech Stack
-
+![Flutter](https://img.shields.io/badge/Flutter-ED8B00?style=flat&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/php-6DB33F?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-6DB33F?style=flat&logo=laravel&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -35,31 +37,31 @@ Passionate Software Engineer and Solution Architect with deep expertise in build
 ## 🚀 Featured Projects
 
 ### 🧭 Guider ⭐ Featured
-An intelligent guidance platform powered by AI — helping users navigate decisions and workflows through smart, context-aware recommendations.
-`AI · Spring Boot · LLM`
+An intelligent guidance platform  — helping users navigate decisions and workflows through smart, context-aware recommendations.
+`Flutter · Architicture`
 
 ### 💪 Fit Coach Pro ⭐ Featured
-A smart fitness coaching app delivering personalized workout and nutrition plans, powered by an intelligent backend engine and AI-driven coaching logic.
-`Fitness · AI · Kotlin`
+A smart fitness coaching backend system for Guider, delivering personalized workout and nutrition plans
+`Fitness · SpringBoot . Architicture`
 
 ### 🫀 Liver Pal
-AI-powered liver health companion integrating **LLM models** for intelligent diagnosis assistance and patient support.
-`LLM · Health Tech · AI · Spring Boot`
+liver health companion integrating **LLM models** for intelligent diagnosis assistance and patient support.
+`LLM · Health Tech · AI · Python`
 
 ### ⚡ Nile Soft Enhanced
 Enterprise software enhancement project — scalable, performant backend services and refined system architecture.
-`Enterprise · Spring Boot · Kotlin`
+`Enterprise · ERP · Flutter`
 
 ### 🏢 Awad Badi Nahas Projects
 End-to-end project delivery focused on solid architecture, reliability, and clean engineering practices.
-`Architecture · Java · Solution Design`
+`Architecture · Java · Solution Design . PHP . Flutter . Solution Architecture`
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarfaysal1111&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarfaysal1111&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaysal1111&layout=compact&hide_border=true&theme=default" height="160"/>
 </p>
 
