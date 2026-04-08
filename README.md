@@ -1,6 +1,6 @@
 # Hey there, I'm Omar Faysal 👋
 
-> **Software Engineer · Solution Architect · Java / Spring / Kotlin**
+> **Software Engineer · Solution Architect · Flutter / Java / Spring / Kotlin**
 
 Passionate Software Engineer and Solution Architect with deep expertise in building scalable enterprise systems using **Java**, **Spring Boot**, and **Kotlin**. I enjoy crafting clean architectures and integrating modern AI/LLM capabilities into real-world products. Currently contributing to impactful projects at **Awad Badi Nahas**, **Nile Soft**, and building health-tech and AI-powered solutions.
 
