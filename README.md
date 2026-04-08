@@ -1,4 +1,4 @@
-# Hi there, I'm Omar Faysal 👋
+# Hey there, I'm Omar Faysal 👋
 
 > **Software Engineer · Solution Architect · Java / Spring / Kotlin**
 
@@ -6,7 +6,7 @@ Passionate Software Engineer and Solution Architect with deep expertise in build
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-ED8B00?style=flat&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
@@ -24,7 +24,7 @@ Passionate Software Engineer and Solution Architect with deep expertise in build
 
 ---
 
-## 🏗 Architecture & Expertise
+##  Architecture & Expertise
 
 ![Solution Architect](https://img.shields.io/badge/Solution_Architect-0052CC?style=flat&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -34,7 +34,7 @@ Passionate Software Engineer and Solution Architect with deep expertise in build
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🧭 Guider ⭐ Featured
 An intelligent guidance platform  — helping users navigate decisions and workflows through smart, context-aware recommendations.
@@ -57,13 +57,6 @@ End-to-end project delivery focused on solid architecture, reliability, and clea
 `Architecture · Java · Solution Design . PHP . Flutter . Solution Architecture`
 
 ---
-
-## 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarfaysal1111&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfaysal1111&layout=compact&hide_border=true&theme=default" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaysal1111&hide_border=true&theme=default" height="160"/>
