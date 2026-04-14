@@ -12,8 +12,6 @@ Passionate Software Engineer and Solution Architect with deep expertise in build
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/php-6DB33F?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-6DB33F?style=flat&logo=laravel&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -63,4 +61,4 @@ End-to-end project delivery focused on solid architecture, reliability, and clea
 ![GitHub](https://img.shields.io/badge/GitHub-omarfaysal1111-181717?style=flat&logo=github&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Backend_Engineering-0052CC?style=flat&logoColor=white)
 ![Open to Collaboration](https://img.shields.io/badge/Open_to-Collaboration-4CAF50?style=flat&logoColor=white)
-![Building AI](https://img.shields.io/badge/Building-AI_Powered_Apps-FF4B4B?style=flat&logoColor=white)
+
